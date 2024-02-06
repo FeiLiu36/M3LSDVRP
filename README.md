@@ -11,7 +11,7 @@ Multi-objective split delivery vehicle routing problem with 3-dimensional loadin
 
 **Framework of multiobjective routing packing solver**
 
-<img src="figures/Framework.JPG" alt="Example Image" width="500" height="400">
+<img src="figures/framework.JPG" alt="Example Image" width="500" height="400">
 
 1. Installation:
 
