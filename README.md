@@ -7,11 +7,11 @@
 
 Multi-objective split delivery vehicle routing problem with 3-dimensional loading constraints (**M3LSDVRP**)
 
-<img src="./figures/Problem.jpg" alt="Example Image" width="650" height="350">
+<img src="figures/Problem.jpg" alt="Example Image" width="650" height="350">
 
 **Framework of multiobjective routing packing solver**
 
-<img src="./figures/Framework.jpg" alt="Example Image" width="500" height="400">
+<img src="figures/Framework.jpg" alt="Example Image" width="500" height="400">
 
 1. Installation:
 
