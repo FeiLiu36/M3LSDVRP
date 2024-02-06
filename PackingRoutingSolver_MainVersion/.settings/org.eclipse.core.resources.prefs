@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//src/com/my/vrp/RPSolver.java=UTF-8
+encoding//src/com/my/vrp/mlmodel/ClassicalClassifier_tribuo.java=UTF-8
+encoding//src/com/my/vrp/mlmodel/RNNClassifier_DL4J.java=UTF-8
+encoding//src/com/my/vrp/mlmodel/UCISequenceClassification.java=UTF-8
+encoding//src/com/my/vrp/util/L.java=UTF-8
+encoding//src/solver/RPSolver.java=UTF-8
